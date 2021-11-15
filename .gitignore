@@ -1,0 +1,5 @@
+.hypothesis/
+.ipynb_checkpoints/
+.vscode/
+model.png
+.~*
